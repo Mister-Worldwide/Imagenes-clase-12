@@ -1,0 +1,92 @@
+[
+    {
+        "nombre": "Ilustraciones",
+        "descripcion": "Trabajos de ilustración, conceptualización de personajes y práctica de poses dinámicas",
+        "fecha": "2022",
+        "signo": "ilustracion",
+        "foto": "https://github.com/user-attachments/assets/761a472a-d353-4963-9150-c1a9392191d8",
+        "fotos": ["ilustraciones0","ilustraciones1","ilustraciones2","ilustraciones3"],
+        "github": "https://github.com/mister-worldwide"
+    },
+    {
+        "nombre": "Golem aéreo",
+        "descripcion":"Trabajo de modelado, texturizado de superficies e iluminación. Proyecto inspirado en el universo del MMORPG World of Warcraft",
+        "fecha": "2022",
+        "signo": "modelado3D",
+        "foto": "https://github.com/user-attachments/assets/90add3d9-9264-4e74-928b-ac8a44bb67b5",
+        "fotos":["golem0","golem1","golem2","golem3"],
+        "github": "https://github.com/mister-worldwide"
+    },
+    {
+        "nombre": "Converse Design",
+        "descripcion":"Desarrollo de nuevas propuestas para diseños de la popular marca. Trabajo exploratorio y de aplicación de texturas, iluminación y renderizado de imágen",
+        "fecha": "2024",
+        "signo": "modelado3D",
+        "foto": "https://github.com/user-attachments/assets/7c3efc4a-6c61-49b9-a9c6-36574c30a4e3",
+        "fotos": ["converse0","converse1","converse2","converse3"],
+        "github": "https://github.com/mister-worldwide"
+    },
+    {
+        "nombre": "Heal Em Up!",
+        "descripcion":"Trabajo como ilustrador realizado en CienArt Studios. Especial énfasis en el diseño de personajes, diseño de escenarios, storyboard, narrativa visual y animación",
+        "fecha": "2024",
+        "signo": "ilustracion",
+        "foto": "https://github.com/user-attachments/assets/8e1a480f-36e2-4bb5-ab12-a6aa3dc97d17",
+        "fotos":["healemup0","healemup1","healemup2","healemup3"],
+        "github": "https://github.com/mister-worldwide"
+    },
+    {
+        "nombre": "Magic & Candle",
+        "descripcion":"Trabajo realizado en marco del apoyo a pequeñas y medianas empresas. El uso de modelado 3D y proyección de texturas y materiales permitió el desarrollo de simulaciones para productos con una identidad mas potente y llamativa",
+        "fecha": "2024",
+        "signo": "https://github.com/user-attachments/assets/a0979291-98ba-4e66-a463-116ae86c450c",
+        "foto": "magicandcandle0",
+        "fotos": ["magicandcandle0","magicandcandle1","magicandcandle2","magicandcandle3"],
+        "github": "https://github.com/mister-worldwide"
+    },
+    {
+        "nombre": "Mobiliario",
+        "descripcion": "Trabajo como practicante en el laboratorio de modelos y prototipos de la Pontificia Universidad Católica de Chile en el desarrollo de mobiliario especializado para el espacio y maquinaria presente del lugar",
+        "fecha": "2024",
+        "signo": "fabricacion",
+        "foto": "https://github.com/user-attachments/assets/003fc9ee-a6bf-4a2c-b163-bd7f0a2dded2",
+        "fotos":["mobiliario0","mobiliario1","mobiliario2","mobiliario3"],
+        "github": "https://github.com/mister-worldwide"
+    },
+    {
+        "nombre": "Marinus (Graus Nigra)",
+        "descripcion": "Trabajo museográfico desarrollado para la conmemoración de los 50 años del ECIM en Las Cruces. Trabajo que implico la conceptualización, desarrollpo y construcción en anamorfosis de Graus Nigra, una de las especies locales",
+        "fecha": "2022",
+        "signo": "fabricacion",
+        "foto": "https://github.com/user-attachments/assets/7bddcd22-0b1f-447d-99bc-d85f8cd023a9    ",
+        "fotos":["marinus0","marinus1","marinus2","marinus3"],
+        "github": "https://github.com/mister-worldwide"
+    },
+    {
+        "nombre": "BlueBird Café",
+        "descripcion": "Trabajo en el marco del Diseño de Servicios. El uso de modelado y proyección de materiales permitió el desarrollo y previsualización de una serie de PopUps interactivos que permitiesen al Café entregar una experiencia de sabor y música aun estando fuera del radio del establecimiento, aprovechando las cercanías del local y captando clientes potenciales",
+        "fecha": "2022",
+        "signo": "modelado3D",
+        "foto": "https://github.com/user-attachments/assets/046ec5a4-4880-4346-8795-88974473d8ce",
+        "fotos":["bluebird0","bluebird1","bluebird2","bluebird3"],
+        "github": "https://github.com/mister-worldwide"
+    },
+    {
+        "nombre": "Cómo enfrentar a un Dragon",
+        "descripcion":"Instructivo audiovisual en forma de animatic que describe los pasos a seguir para enfrentar a un Dragon y salir victorioso del encuentro",
+        "fecha": "2022",
+        "signo": "audiovisual",
+        "foto": "https://github.com/user-attachments/assets/8f2fb6b8-8da2-4fb5-bd54-df739025a92a",
+        "fotos": ["dragon0","dragon1","dragon2","dragon3"],
+        "github": "https://github.com/mister-worldwide"
+    },
+    {
+        "nombre": "Kelp Me!",
+        "descripcion":"Juego desarrollado en el marco de la educación y difusión de información sobre la importancia y el cuidado de los bosques de Kelp en el norte de Chile. Trabajo como ilustrador, investigador y desarrollador de interacciones y mecánicas",
+        "fecha": "2022",
+        "signo": "ilustracion",
+        "foto": "https://github.com/user-attachments/assets/148a569c-99a4-4df5-a73f-75a6c19f8713",
+        "fotos": ["Kelpme0","kelpme1","kelpme2","kelpme3"],
+        "github": "https://github.com/mister-worldwide"
+    }
+]
