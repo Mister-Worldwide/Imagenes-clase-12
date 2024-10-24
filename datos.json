@@ -5,7 +5,7 @@
         "fecha": "2022",
         "signo": "ilustracion",
         "foto": "https://github.com/user-attachments/assets/761a472a-d353-4963-9150-c1a9392191d8",
-        "fotos": ["ilustraciones0","ilustraciones1","ilustraciones2","ilustraciones3"],
+        "fotos": ["ilustraciones0.jpg","ilustraciones1.jpg","ilustraciones2.jpg","ilustraciones3.jpg"],
         "github": "https://github.com/mister-worldwide"
     },
     {
@@ -14,7 +14,7 @@
         "fecha": "2022",
         "signo": "modelado3D",
         "foto": "https://github.com/user-attachments/assets/90add3d9-9264-4e74-928b-ac8a44bb67b5",
-        "fotos":["golem0","golem1","golem2","golem3"],
+        "fotos":["golem0.jpg","golem1.jpg","golem2.jpg","golem3.jpg"],
         "github": "https://github.com/mister-worldwide"
     },
     {
@@ -23,7 +23,7 @@
         "fecha": "2024",
         "signo": "modelado3D",
         "foto": "https://github.com/user-attachments/assets/7c3efc4a-6c61-49b9-a9c6-36574c30a4e3",
-        "fotos": ["converse0","converse1","converse2","converse3"],
+        "fotos": ["converse0.jpg","converse1.jpg","converse2.jpg","converse3.jpg"],
         "github": "https://github.com/mister-worldwide"
     },
     {
